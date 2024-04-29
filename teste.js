@@ -20,3 +20,4 @@ app.listen(4000,function(erro){
         console.log("Servidor Iniciado.")
     }
 })
+console.log("Teste");
